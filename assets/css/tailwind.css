@@ -1,0 +1,8 @@
+@import url('./variables.css');
+
+/* UI ELEMENTS */
+@import url('./uielements/spinner.module.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

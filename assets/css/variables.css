@@ -1,0 +1,17 @@
+:root {
+    --color-black: #000000;
+    --color-black-rgba: 0, 0, 0;
+    --color-white: #FFFFFF;
+    --color-white-rgba: 255, 255, 255;
+    --color-primary: #2962ff;
+    --color-primary-rgba: 41, 98, 255;
+    --color-secondary: var(--color-white);
+    --color-secondary-rgba: 255, 255, 255;
+    --color-error: #f44336;
+    --color-error-rgba: 244, 67, 54;
+    --color-success: #00c853;
+    --color-success-rgba: 0, 200, 83;
+    --color-blue-gray: #263238;
+    --color-blue-gray-rgba: 38, 50, 56;
+    --color-main-bg: var(--color-white);
+}
